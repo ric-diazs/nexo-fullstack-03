@@ -88,6 +88,7 @@ export default function LoginPage() {
   }
 
   return (
+    
     <main className="min-h-screen flex overflow-hidden">
       <div className="relative w-full flex">
 
@@ -101,6 +102,7 @@ export default function LoginPage() {
             : 'translate-x-0 translate-y-0'
           }
         `}>
+       
           <div className="w-full max-w-md">
             <div className="mb-10">
               <span className="text-3xl font-bold text-white">Nexo</span>
